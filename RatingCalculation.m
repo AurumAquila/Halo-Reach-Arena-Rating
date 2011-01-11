@@ -2,8 +2,8 @@
 //  RatingCalculation.m
 //  ArenaStatCalc
 //
-//  Created by Jhetam Family on 12/11/10.
-//  Copyright 2010 __MyCompanyName__. All rights reserved.
+//  Created by Zane on 12/11/10.
+//  Copyright 2010 Aurum Aquila. All rights reserved.
 //
 
 #import "RatingCalculation.h"
@@ -53,7 +53,7 @@
 			final_rating = 1000+(2000/M_PI * atan(raw_rating * game_normalization));
 		}
 	
-	NSString *string = [NSString stringWithFormat:@"%i",final_rating];
+	NSString *string = [NSString stringWithFormat:@"%f",final_rating];
 		
 	return string;
 }

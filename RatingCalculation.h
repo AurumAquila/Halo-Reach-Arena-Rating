@@ -2,8 +2,8 @@
 //  RatingCalculation.h
 //  ArenaStatCalc
 //
-//  Created by Jhetam Family on 12/11/10.
-//  Copyright 2010 __MyCompanyName__. All rights reserved.
+//  Created by Zane on 12/11/10.
+//  Copyright 2010 Aurum Aquila. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
